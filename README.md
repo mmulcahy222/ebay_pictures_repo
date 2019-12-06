@@ -5,3 +5,5 @@ Nothing special here. Took about a few hours. Just simply uses the EBay API to b
 Clicking on the picture shows all the images on the top (fixed div), and clicking on the white box goes to the official Ebay Product page
 
 Language: PHP (used until 2015)
+
+![](images/ebay_tag_search.jpg)
